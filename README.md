@@ -1,4 +1,4 @@
-![GIF](https://i.pinimg.com/originals/45/13/09/4513099cb7ae091b70b1cbe5fd22136f.gif))
+![GIF](https://i.pinimg.com/originals/28/98/03/28980332a007188287258c4d5e9157db.gif)
 
 
 **__👨‍💻 Name__** : ＲＴＸ.ｅｘｅ🖇️📌
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"> 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> rtxcpm123/rtxcpm123
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
 
 ## subscribe to :
