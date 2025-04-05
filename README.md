@@ -1,4 +1,4 @@
-![First GIF](https://i.pinimg.com/originals/65/c8/90/65c890782049f23f6548f4e948c0b87a.gif)
+
 **__👨‍💻 Name__** : ＲＴＸ.ｅｘｅ🖇️📌
 
 **__🌍 Nationality__** : Arabic Developer
@@ -6,6 +6,8 @@
 **__💻 Specialty__** : Programming, Game Development
 
 **📢 Stay Tuned: I will post something exciting soon!**
+
+![First GIF](https://i.pinimg.com/originals/45/e7/4f/45e74f238f8a04dcc3c8395d11a52477.gif)
 
 ## Skills
 
