@@ -6,11 +6,9 @@
 **__💻 Specialty__** : Programming, Game Development
 
 **📢 Stay Tuned: I will post something exciting soon!**
-
-![First GIF](https://i.pinimg.com/originals/45/e7/4f/45e74f238f8a04dcc3c8395d11a52477.gif)
+![First GIF](https://i.pinimg.com/originals/85/45/f9/8545f969295d410609127ac0cb2595c4.gif)
 
 ## Skills
-
 <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
