@@ -6,6 +6,7 @@
 **__💻 Specialty__** : Programming, Game Development
 
 **📢 Stay Tuned: I will post something exciting soon!**
+
 ![First GIF](https://i.pinimg.com/originals/85/45/f9/8545f969295d410609127ac0cb2595c4.gif)
 
 ## Skills
