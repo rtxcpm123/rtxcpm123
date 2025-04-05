@@ -1,3 +1,4 @@
+![First GIF](https://i.pinimg.com/originals/85/45/f9/8545f969295d410609127ac0cb2595c4.gif)
 
 **__👨‍💻 Name__** : ＲＴＸ.ｅｘｅ🖇️📌
 
@@ -7,9 +8,8 @@
 
 **📢 Stay Tuned: I will post something exciting soon!**
 
-![First GIF](https://i.pinimg.com/originals/85/45/f9/8545f969295d410609127ac0cb2595c4.gif)
-
 ## Skills
+
 <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
